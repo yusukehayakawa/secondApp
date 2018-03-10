@@ -12,6 +12,7 @@
 		70BBEEFB2053739B00C731B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70BBEEF92053739B00C731B5 /* Main.storyboard */; };
 		70BBEEFD2053739B00C731B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70BBEEFC2053739B00C731B5 /* Assets.xcassets */; };
 		70BBEF002053739B00C731B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70BBEEFE2053739B00C731B5 /* LaunchScreen.storyboard */; };
+		70BBEF082053774600C731B5 /* GreetingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BBEF072053774600C731B5 /* GreetingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		70BBEEFC2053739B00C731B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		70BBEEFF2053739B00C731B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		70BBEF012053739B00C731B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70BBEF072053774600C731B5 /* GreetingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				70BBEEF52053739B00C731B5 /* AppDelegate.swift */,
 				70BBEEF72053739B00C731B5 /* ViewController.swift */,
 				70BBEEF92053739B00C731B5 /* Main.storyboard */,
+				70BBEF072053774600C731B5 /* GreetingViewController.swift */,
 				70BBEEFC2053739B00C731B5 /* Assets.xcassets */,
 				70BBEEFE2053739B00C731B5 /* LaunchScreen.storyboard */,
 				70BBEF012053739B00C731B5 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				70BBEEF82053739B00C731B5 /* ViewController.swift in Sources */,
+				70BBEF082053774600C731B5 /* GreetingViewController.swift in Sources */,
 				70BBEEF62053739B00C731B5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
